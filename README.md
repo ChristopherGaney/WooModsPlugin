@@ -1,4 +1,4 @@
-# WooModsPlugin
+# WooModsPlugin (woo-modifications)
 WooModsPlugin adds a tab in WooCommerce Settings for My Woo Mods where a user can choose to enable or disable each modification that is defined in the plugin.
 
 ![My Woo Mods settings page](https://github.com/ChristopherGaney/WooModsPlugin/blob/main/my-woo-mods.png)
